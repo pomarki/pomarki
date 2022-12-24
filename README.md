@@ -1,7 +1,7 @@
 ### Привет, меня зовут Денис 👋
 
  * 🧩 сейчас я ищу работу front-end разработчика
- * ⚙️ я использую: `HTML` `CSS` `JS` `React` `Next.js` `Node.js` `Git` `Figma`
+ * ⚙️ я использую: `HTML` `CSS` `JS` `React` `Next.js` `Node.js` `Git` `Figma` `БЭМ`
  * 📮 связаться со мной:
      * [telegram/pomarki](https://tlgg.ru/pomarki)
      * denis.shalaew@ya.ru
