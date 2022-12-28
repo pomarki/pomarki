@@ -4,7 +4,7 @@
  * ⚙️ я использую: `HTML` `CSS` `JS` `React` `Next.js` `Node.js` `Git` `Figma` `БЭМ`
  * 📮 связаться со мной:
      * [telegram/pomarki](https://tlgg.ru/pomarki)
-     * denis.shalaew@ya.ru
+     * denis.shalaew@yandex.ru
  * 💠 интересный факт: я люблю клеточные автоматы
   
   
